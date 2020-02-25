@@ -10,13 +10,8 @@
 #       OPTIONS:  ---
 #  REQUIREMENTS:  ---
 #          BUGS:  ---
-#         NOTES:  Please do not modify this file without checking with
-#		  			Willson Camp (contact below).  Modifcation of variables
-#	          could cause the script to remove files that it shouldn't
-#	           5/24/2019: Substituted date for strftime
-#		  									in function SinceLastChanged for
-#												Ubuntu 14.04 compatibility
-#		   12/24/2015: Added function to get SELinux status for RedHat
+#         NOTES:  Please do not modify this file without checking with Willson Camp (contact below).  Modifcation of variables
+#	          could cause the script to remove files that it shouldn't.
 #        AUTHOR:  Willson Camp
 #
 #       VERSION:  1.2.5c
