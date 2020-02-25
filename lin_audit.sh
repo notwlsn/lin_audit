@@ -11,7 +11,7 @@
 #  REQUIREMENTS:  ---
 #          BUGS:  ---
 #         NOTES:  Please do not modify this file without checking with
-#           Willson Camp (contact below).  Modifcation of variables
+#              Willson Camp (contact below).  Modifcation of variables
 #	          could cause the script to remove files that it shouldn't.
 #        AUTHOR:  Willson Camp
 #
