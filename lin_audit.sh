@@ -10,11 +10,6 @@
 #       OPTIONS:  ---
 #  REQUIREMENTS:  ---
 #          BUGS:  ---
-#         NOTES:  Please do not modify this file without checking with
-#              Willson Camp (contact below).  Modifcation of variables
-#	          could cause the script to remove files that it shouldn't.
-#        AUTHOR:  Willson Camp
-#
 #       VERSION:  1.2.5c
 #       CREATED:  September 15, 2019
 #      REVISION:  Dec 24, 2019
