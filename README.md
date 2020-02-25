@@ -6,7 +6,7 @@ Tested on RedHat, Ubuntu up to Trusty Tahr (14.04), and Solaris.
 
 1. Log into the server using a root account within a terminal window
 
-2. Verify file hash. Something like <pre> $ echo "FILEHASH filename" | sha256sum -c </pre>
+2. Verify file hash. Something like <pre> $ echo "FILEHASH filename" | md5sum -c </pre>
 
 2. Copy lin_audit.sh to /
 
