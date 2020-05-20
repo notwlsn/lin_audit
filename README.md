@@ -12,10 +12,10 @@ Tested on RedHat, Ubuntu up to Trusty Tahr (14.04), and Solaris.
 
 3. cd to /
 
-4. Make lin_audit.sh executable by entering:  chmod +x lin_audit.sh
+4. Make lin_audit.sh executable by entering: <pre> chmod +x lin_audit.sh </pre>
 
 5. Run by entering:  ./lin_audit.sh
 
 The audit script will place an output report when it finishes in /tmp/audit/
 
-The report name will be in this format:  $HOSTNAME.audit.tgz (in the case of Solaris, it will be a .tar.gz)
+The report name will be in this format: <pre> $HOSTNAME.audit.tgz </pre> (in the case of Solaris, it will be a .tar.gz)
