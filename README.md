@@ -4,7 +4,7 @@ Tested on RedHat, Ubuntu up to Trusty Tahr (14.04), and Solaris.
 
 <h2> Instructions: </h2>
 
-1. Log into the server using a root account within a terminal window
+1. Log into the server using a root account
 
 2. Verify file hash. Something like <pre> $ echo "FILEHASH filename" | md5sum -c </pre>
 
@@ -12,9 +12,9 @@ Tested on RedHat, Ubuntu up to Trusty Tahr (14.04), and Solaris.
 
 3. cd to /
 
-4. Make lin_audit.sh executable by entering: <pre> chmod +x lin_audit.sh </pre>
+4. Make lin_audit.sh executable: <pre> chmod +x lin_audit.sh </pre>
 
-5. Run by entering:  ./lin_audit.sh
+5. Run: <pre> ./lin_audit.sh </pre>
 
 The audit script will place an output report when it finishes in /tmp/audit/
 
